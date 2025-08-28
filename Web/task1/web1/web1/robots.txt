@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /super-secret-flag.txt
+Allow: /contact.php
+Allow: /index.php
+Allow: /about.php
+
+
